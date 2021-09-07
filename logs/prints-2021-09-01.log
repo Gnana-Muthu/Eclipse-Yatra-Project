@@ -1,0 +1,8 @@
+22:33:45:308 [main] INFO  resources.base -restricted user
+22:33:47:485 [main] INFO  resources.base -Non restricted user
+22:34:20:361 [main] INFO  resources.base -Navigationbar is display
+22:34:35:564 [main] INFO  resources.base -Driver is initialized
+22:34:37:358 [main] INFO  resources.base -Navigated to home page
+22:34:40:764 [main] INFO  resources.base -Successfully validated Text message
+22:35:55:950 [main] INFO  resources.base -Navigationbar is display
+22:36:06:768 [main] INFO  resources.base -restricted user
